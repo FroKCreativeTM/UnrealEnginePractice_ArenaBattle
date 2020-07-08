@@ -367,6 +367,8 @@
     <None Include="..\..\ArenaBattle.uproject"/>
     <None Include="..\..\Source\ArenaBattle.Target.cs"/>
     <None Include="..\..\Source\ArenaBattleEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
