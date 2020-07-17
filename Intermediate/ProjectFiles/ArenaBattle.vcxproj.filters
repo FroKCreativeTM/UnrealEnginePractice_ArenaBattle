@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ArenaBattle.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7110DD88-013E-4391-A192-5D3A707C49C2}</UniqueIdentifier>
+      <UniqueIdentifier>{38541E5D-5A06-4850-AFCC-6E3081670D72}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArenaBattle.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitattributes" />
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E818EEEE-222C-405E-8B9D-0847D149D04B}</UniqueIdentifier>
+      <UniqueIdentifier>{FB2971DE-3F29-48AC-982F-7E433FE97D51}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -32,8 +32,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ArenaBattle">
-      <UniqueIdentifier>{6447CF54-9392-4F2A-9D9F-B800945A9793}</UniqueIdentifier>
+      <UniqueIdentifier>{E864A1B1-A33C-42F7-902E-BB76EC64FD52}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABGameMode.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABGameMode.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
     <None Include="..\..\Source\ArenaBattle\ArenaBattle.Build.cs">
       <Filter>Source\ArenaBattle</Filter>
     </None>
@@ -49,5 +55,21 @@
     <ClInclude Include="..\..\Source\ArenaBattle\Fountain.h">
       <Filter>Source\ArenaBattle</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABPawn.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ArenaBattle\ABPlayerController.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABPawn.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABPlayerController.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
