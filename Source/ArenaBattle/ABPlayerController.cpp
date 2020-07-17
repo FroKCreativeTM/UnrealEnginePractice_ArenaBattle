@@ -3,6 +3,14 @@
 
 #include "ABPlayerController.h"
 
+void AABPlayerController::BeginPlay()
+{
+	Super::BeginPlay();
+
+	FInputModeGameOnly inputMode;
+	SetInputMode(inputMode);
+}
+
 void AABPlayerController::PostInitializeComponents()
 {
 	Super::PostInitializeComponents();

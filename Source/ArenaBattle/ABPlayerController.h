@@ -14,6 +14,10 @@ class ARENABATTLE_API AABPlayerController : public APlayerController
 {
 	GENERATED_BODY()
 	
+protected : 
+	// 일일히 뷰포트를 눌러서 윈도우를 고정해야 인풋이 들어오는 문제를 일단 해제하는 기능
+	virtual void BeginPlay() override;
+
 public :
 	// 폰과 플레이어 컨트롤러가 생성되는 시점은 각 PostInitializeComponents를 이용해서 확인할 수 있다.
 	virtual void PostInitializeComponents() override;
