@@ -194,9 +194,7 @@ c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
 E:\Study\Game_Programming\UnrealGame_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABGameMode.generated.h
-e:\study\game_programming\unrealgame_study\arenabattle\source\arenabattle\ABPawn.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/FloatingPawnMovement.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FloatingPawnMovement.generated.h
-E:\Study\Game_Programming\UnrealGame_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPawn.generated.h
+e:\study\game_programming\unrealgame_study\arenabattle\source\arenabattle\ABCharacter.h
+E:\Study\Game_Programming\UnrealGame_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
 e:\study\game_programming\unrealgame_study\arenabattle\source\arenabattle\ABPlayerController.h
 E:\Study\Game_Programming\UnrealGame_Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABPlayerController.generated.h
